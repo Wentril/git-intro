@@ -23,4 +23,5 @@ def subtract(a, b):
 if __name__ == "__main__":
     print(factorial(5))
     print(add(2, 5))
+    print(add(2, 4))
     print(subtract(5, 2))
